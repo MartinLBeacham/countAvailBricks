@@ -1,8 +1,12 @@
-# Pick-A-Brick Available Brick Counter
+# Brick Math for Pick-A-Brick Website 
 
 ## Description
 
-This is a simple script to count the number of bricks available for a pre-selected set on Lego's pick-a-brick.
+This is a set of simple functions to help with navigating pick a brick and figuring out prices to replicate retired Lego sets.
+
+1. **countAvailBricks** - counts the number of bricks available for a pre-selected set on Lego's pick-a-brick.
+2. **printPriceByBlock** - prints the aggregate price by block, i.e., the number of a given block times the per unit price.
+3. **totalPrice** - adds up the total price for all required bricks that are available.
 
 ## License
 
